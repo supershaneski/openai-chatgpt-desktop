@@ -2,6 +2,10 @@
 
 A sample app that enables user to conveniently access [OpenAI ChatGPT](https://openai.com/blog/chatgpt/) from their desktop menubar.
 
+デスクトップのメニューバーから直接OpenAI ChatGPTにアクセスできるユーザーの便利なサンプルアプリ。
+
+---
+
 ![screenshot](./images/screenshot.png "screenshot")
 
 ---
