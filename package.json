@@ -1,0 +1,20 @@
+{
+  "name": "openai-chatgpt-desktop",
+  "version": "1.0.0",
+  "description": "A desktop app for OpenAi ChatGPT",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "openai",
+    "chatgpt",
+    "desktop"
+  ],
+  "author": "supershaneski",
+  "license": "MIT",
+  "dependencies": {
+    "menubar": "^9.2.3"
+  }
+}
